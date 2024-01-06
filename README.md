@@ -1,4 +1,4 @@
-Digital Guardians Community Landing Page
+<b>Digital Guardians Community Landing Page</b>
 
 Welcome to the landing page for Digital Guardians Community, a platform dedicated to providing cutting-edge cybersecurity services. This repository contains the HTML and CSS code for a sleek and responsive landing page designed to showcase the key features of Digital Guardians and encourage user engagement
 
