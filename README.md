@@ -7,12 +7,11 @@ Welcome to the landing page for Digital Guardians Community, a cybersecurity com
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-This landing page showcases the key features and services provided by Digital Guardians Community. It is designed to provide visitors with information about the company's cybersecurity expertise, services, and how to get in touch.
+This landing page is build by HTML and CSS. It showcases the key features and services provided by Digital Guardians Community. It is designed to provide visitors with information about the company's cybersecurity expertise, services. This is a simple and Basic HTML project for creating a landing page.
 
 ## Features
 
@@ -27,9 +26,14 @@ This landing page showcases the key features and services provided by Digital Gu
 To get started, simply clone this repository:
 
 ```bash
-git clone https://github.com/your-username/digital-guardians-landing-page.git
+git clone https://github.com/pavan1192/communitylandingpage.git
 ```
 ## usage
 <!-- Replace 'hacker.jpg' and 'favicon.png' with your image URLs -->
-background-image: url('hacker.jpg');
+background-image: url('hacker.jpg'); 
 <link rel="icon" type="image/x-icon" href="favicon.png">
+
+## License
+This project is licensed under the MIT License.
+
+Replace placeholders such as `your-username` with your actual GitHub username and customize the content as needed. This README provides a brief overview of the landing page, instructions for getting started, usage guidelines, contributing information, and licensing details.
