@@ -29,11 +29,11 @@ To get started, simply clone this repository:
 git clone https://github.com/pavan1192/communitylandingpage.git
 ```
 ## usage
-<!-- Replace 'hacker.jpg' and 'favicon.png' with your image URLs -->
+
+Replace 'hacker.jpg' and 'favicon.png' with your image URLs 
 background-image: url('hacker.jpg'); 
 <link rel="icon" type="image/x-icon" href="favicon.png">
 
 ## License
 This project is licensed under the MIT License.
 
-Replace placeholders such as `your-username` with your actual GitHub username and customize the content as needed. This README provides a brief overview of the landing page, instructions for getting started, usage guidelines, contributing information, and licensing details.
