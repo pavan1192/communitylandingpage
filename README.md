@@ -27,4 +27,11 @@ This landing page showcases the key features and services provided by Digital Gu
 To get started, simply clone this repository:
 
 ```bash
+```
+
+### usage
 git clone https://github.com/your-username/digital-guardians-landing-page.git
+
+<!-- Replace 'hacker.jpg' and 'favicon.png' with your image URLs -->
+background-image: url('hacker.jpg');
+<link rel="icon" type="image/x-icon" href="favicon.png">
